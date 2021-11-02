@@ -1,2 +1,5 @@
 # sea-battle
-Learn project
+## Using technology
+- HTML
+- CSS
+- JS
